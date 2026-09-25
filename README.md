@@ -1,8 +1,7 @@
-# Legixo Grounded Q&A API
+# GroundedIQ
 
 A document-grounded Retrieval-Augmented Generation system — HTTP API plus a
-built-in web UI — built for the Legixo Thinklabs Gen AI Intern take-home
-assignment.
+built-in web UI.
 
 The system answers questions **only** from a small fictional legal corpus.
 If the corpus doesn't contain the answer, it says so explicitly instead of
